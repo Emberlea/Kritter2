@@ -1,0 +1,26 @@
+h1{
+    font-family:Shadows Into Light;
+    color:#008cff;
+    font-size:70px;
+}
+body{
+    background-color:#10012b;
+}
+#butt{
+    color:#0a001b;
+}
+h2{
+    color:#2b84a7;
+    font-family:Amatic SC;
+    font-size:50px;
+}
+#text{
+    width:1500px;
+}
+#but{
+    background-color:#260063;
+    color:white;
+    width:200px;
+    height:50px;
+    border-radius:20px;
+}

@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    color:#008cff;
+    font-size:70px;
+}
+#bat{
+    width:20%;;
+    height:20%;
+}
+body{
+    background-color:#10012b;
+}
+.container{
+    background-color:#001346;
+    border-radius:20px;
+}
+h4{
+    color:white;
+    font-family:'Sigmar One';
+}
+p{
+    color:white;
+}
